@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+}
+.menu{
+overflow: auto;
+padding: 12px;
+float: inherit;
+width: 200px;
+height: 150px;;
+text-decoration: none;
+0
+}
+.menu a{
+    background-color:#eee;
+    color: black;
+    display: block;
+    padding: 12px;
+   text-decoration: none;
+
+
+}
+.menu a:hover{
+    background-color: #ccc;
+
+}
+.menu a .active{
+    background-color: antiquewhite;
+    color: white;
+display: ;
+}
+
+  
